@@ -1,5 +1,4 @@
-# Conceitos em Javascript Intermediário/Avançado
-Guia de estudo em Javascript.
+# Guia de conceitos em Javascript Intermediário/Avançado
 
 ## 1. Pilha de chamadas(Call Stack)
 
